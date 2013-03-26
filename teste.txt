@@ -5,6 +5,6 @@
 
 03/26/2013  05:06 PM    <DIR>          .
 03/26/2013  05:06 PM    <DIR>          ..
-03/26/2013  05:06 PM                 0 teste.txt
+03/26/2013  05:12 PM                 0 teste.txt
                1 File(s)              0 bytes
-               2 Dir(s)  24,738,234,368 bytes free
+               2 Dir(s)  24,738,230,272 bytes free
