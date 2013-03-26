@@ -5,7 +5,7 @@
 
 03/26/2013  05:17 PM    <DIR>          .
 03/26/2013  05:17 PM    <DIR>          ..
-03/26/2013  05:17 PM                 0 ESTAG.txt
+03/26/2013  05:20 PM                 0 ESTAG.txt
 03/26/2013  05:12 PM               362 teste.txt
                2 File(s)            362 bytes
-               2 Dir(s)  24,738,144,256 bytes free
+               2 Dir(s)  24,738,140,160 bytes free
