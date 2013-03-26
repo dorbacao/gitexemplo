@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5C6A-66C3
+
+ Directory of C:\Users\mdorbacao\projetos\gitexemplo
+
+03/26/2013  05:43 PM    <DIR>          .
+03/26/2013  05:43 PM    <DIR>          ..
+03/26/2013  05:43 PM               128 dorba.txt
+03/26/2013  05:20 PM               412 ESTAG.txt
+03/26/2013  05:12 PM               362 teste.txt
+               3 File(s)            902 bytes
+               2 Dir(s)  24,737,898,496 bytes free
